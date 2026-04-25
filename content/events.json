@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "id": "under-the-sun",
+      "title": "ZEITGEIST: Under The Sun",
+      "date": "31 May 2026",
+      "location": "Byhaven, Copenhagen",
+      "poster": "assets/images/prev-events/event-06.jpg",
+      "details": "Zeitgeist returns to Byhaven for an open-air session from afternoon into night. Full lineup TBA.",
+      "ticketUrl": ""
+    },
+    {
+      "id": "tba-october",
+      "title": "ZEITGEIST: TBA",
+      "date": "31 Oct 2026",
+      "location": "Den Anden Side, Copenhagen",
+      "poster": "assets/images/prev-events/event-08.jpg",
+      "details": "Details coming soon.",
+      "ticketUrl": ""
+    },
+    {
+      "id": "Test-event",
+      "title": "ZEITGEIST: TEST EVENT",
+      "date": "25 Apr 2026",
+      "location": "Vesterbrogade 98",
+      "poster": "assets/images/logo.png",
+      "details": "TEST EVENT DESCRIPTION",
+      "ticketUrl": "resident-advisor.dk"
+    }
+  ]
+}
